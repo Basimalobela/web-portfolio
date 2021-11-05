@@ -1,4 +1,5 @@
-.header {
+#header {
   text-align: center;
-  margin: 140px auto;
+  margin: 160px auto;
+  font-family: "Libre Baskerville", serif;
 }
