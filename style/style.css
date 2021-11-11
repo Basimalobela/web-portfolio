@@ -7,10 +7,20 @@ p {
   color: white;
   font-family: "Libre Baskerville", serif;
 }
+
+.imgdis {
+  color: black;
+}
+.cription {
+  color: black;
+}
 #header {
   text-align: center;
   margin: 160px auto;
   font-family: "Libre Baskerville", serif;
+}
+.header2 {
+  margin-left: 40px;
 }
 .carousel-item {
   border: none;
@@ -21,7 +31,7 @@ p {
   border: none;
 }
 #nav {
-  background-color: #ffd7ba;
+  background-color: #c4ab90;
 }
 .carousel-item :hover {
   background-color: #d6a777;
@@ -40,4 +50,11 @@ h5 :hover {
     font-size: 10px;
     margin-top: -10px;
   }
-} ;
+}
+#basi {
+  border-radius: 160px;
+  margin-left: 50px;
+}
+.header-2 {
+  margin-top: -1000px;
+}
