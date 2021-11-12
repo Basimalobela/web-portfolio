@@ -7,7 +7,18 @@ p {
   color: white;
   font-family: "Libre Baskerville", serif;
 }
-
+.icon {
+  display: flex;
+  justify-content: space-evenly;
+  font-size: 250px;
+  color: #d69d778f;
+}
+.icon :hover {
+  color: #d69d778f;
+}
+.icon :visited {
+  color: #d69d778f;
+}
 .imgdis {
   color: black;
 }
@@ -20,7 +31,8 @@ p {
   font-family: "Libre Baskerville", serif;
 }
 .header2 {
-  margin-left: 40px;
+  text-align: center;
+  font-family: "Libre Baskerville", serif;
 }
 .carousel-item {
   border: none;
