@@ -112,3 +112,7 @@ h5 :hover {
   background-color: #c4ab90;
   border-color: #c4ab90;
 }
+.repo {
+  text-decoration: none;
+  color: #000;
+}
