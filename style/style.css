@@ -7,6 +7,9 @@ p {
   color: white;
   font-family: "Libre Baskerville", serif;
 }
+h8 {
+  text-align: center;
+}
 .icon {
   display: flex;
   justify-content: space-evenly;
